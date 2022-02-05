@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Jose_Pablo_Menard_Pimentel_202111563</title>
+<style>
+table, th, td{
+   border: 1px solid green;
+}
+</style>
+</head>
+<body>
+<H3><font face="Arial"><font color="grey">Tabla de cursos asignados segundo semestre 2022</font></font></H3><br>
+<table>
+    <tr>
+       <th>Cursos</th>
+       <th>Semestre</th>
+
+    </tr>
+
+
+     <tr>
+       <td><font color="blue">Matemática Intermedia 1</font></td>
+       <td><font color="purple">2do Semestre</font></td>
+
+     </tr>
+
+     <tr>
+       <td><font color="blue">Física 1</font></td>
+       <td><font color="purple">2do Semestre</font></td>
+
+     </tr>
+    
+
+      <tr>
+       <td><font color="blue">Matemática de Computo 1</font></td>
+       <td><font color="purple">2do Semestre</font></td>
+
+     <tr>
+       <td><font color="blue">Lógica de Sistemas</font></td>
+       <td><font color="purple">2do Semestre</font></td>
+
+     </tr>
+
+
+     <tr>
+       <td><font color="blue">Introducción a la programación y computación 1</font></td>
+       <td><font color="purple">2do Semestre</font></td>
+
+     </tr>
+
+     </table>
+</body>
+</html>
